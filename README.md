@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **The Odin Project**
 
-- 👨‍💻 All of my projects are available on [my profile](my profile)
+- 👨‍💻 All of my projects are available on [my profile](https://github.com/peetzaecksdee)
 
 - 📫 How to reach me **peetzaecksdee@skiff.com**
 
